@@ -1,4 +1,10 @@
 {
+  "google": {
+    "name": "Google",
+    "url": "https://www.google.com/search?q=",
+    "translation": "https://translate.google.com/?text=",
+    "icon": "google"
+  },
   "baidu": {
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
@@ -10,12 +16,6 @@
     "url": "https://www.bing.com/search?q=",
     "translation": "https://www.bing.com/translator?text=",
     "icon": "bing"
-  },
-  "google": {
-    "name": "Google",
-    "url": "https://www.google.com/search?q=",
-    "translation": "https://translate.google.com/?text=",
-    "icon": "google"
   },
   "sogou": {
     "name": "搜狗",
